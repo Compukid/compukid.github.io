@@ -6,8 +6,9 @@ body {
  
 h1 {
     color: #ff6600;
+    border-style: solid;
     border-color: #ff6600;
-    font-size: large;
+    font-size: x-large;
 }
  
  

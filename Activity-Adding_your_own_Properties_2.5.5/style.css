@@ -8,7 +8,9 @@ h1 {
     color: #ff6600;
     border: 1em;
     border-color: #ff6600;
+    border-width: medium;
     font-size: xx-large;
+    font-weight: 800;
 }
  
  

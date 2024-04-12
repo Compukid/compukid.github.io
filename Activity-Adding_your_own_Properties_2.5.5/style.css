@@ -6,9 +6,9 @@ body {
  
 h1 {
     color: #ff6600;
-    border: 1em;
     border-color: #ff6600;
     border-width: medium;
+    border-block-style: solid;
     font-size: xx-large;
     font-weight: 800;
     padding: 100px;

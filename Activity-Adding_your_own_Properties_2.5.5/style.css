@@ -1,36 +1,44 @@
 body {
     background-color: #ffff99;
-    font-family: Helvetica, Impact, 'Courier new';
+    font-family: Helvetica, Impact, Courier;
     
 }
- 
+
 h1 {
     color: #ff6600;
     border-color: #ff6600;
-    border-width: medium;
+    border-width: 0.6 em;
     border-block-style: solid;
-    font-size: xx-large;
-    font-weight: 800;
-    padding: 100px;
+    border-left: solid;
+    border-right: solid;
+    font-size: 4em;
+    font-weight: 900;
+    font-style: bold;
+    padding: 0.2em;
+    font-stretch: ultra-condensed;
 }
- 
- 
+
+
 h2 {
-    background-color: orange;
-    color: #ffcc00;
-    font-size: medium;
-}
- 
-ol {
     background-color: #ff6600;
-    color:#ffcc00;
+    color: #ffcc00;
+    font-size: 2.0em;
+    padding: 0.5em;
 }
- 
+
+ol {
+    background-color: #ffcc00; 
+    color: #ffff99;
+    
+}
+
 li {
     font-weight: 800;
+    padding: .5em;
 }
- 
+
 p {
-    border-style: dotted;
-    border-color: #ff6600;
+     border-style: dotted;
+    border-color: #ffcc00;
+    padding: 1em;
 }

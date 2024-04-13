@@ -1,0 +1,33 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+
+    color: #ff6600;
+    border-color: #ff6600;
+    border-width: 0.6 em;
+    border-block-style: solid;
+    border-left: solid;
+    border-right: solid;
+
+}
+
+h3 {
+
+    font-family:'Courier New', Courier, monospace;
+    border-color: black;
+    border-width: 1.6 em;
+    border-block-style: solid;
+    border-left: solid;
+    border-right: solid;
+
+}
+
+p {
+
+    font-weight: 200;
+    
+}

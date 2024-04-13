@@ -58,3 +58,10 @@ p {
     border-color: #ffcc00;
     padding: 1em;
 }
+
+/*not part of activity, added for my own notes*/
+a {
+
+    color: #ffff99;
+    background-color: #ffff99;
+}

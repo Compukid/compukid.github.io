@@ -1,32 +1,45 @@
 body {
     background-color: #ffff99;
     font-family: Helvetica, Impact, Courier;
-    margin-left: 36em;
-    margin-right: 36em;
+    
+    /* when full screen, the margin setting looks perfect, but doesn't resize well, I would like to take it off, but not sure. */
+    margin-left: 35em;
+    margin-right: 35em;
+
+    position: fixed;
 }
 
 h1 {
+    font-family: Helvetica;
+    font-stretch: ultra-condensed;
     color: #ff6600;
     border-color: #ff6600;
     border-width: 0.6 em;
     border-block-style: solid;
     border-left: solid;
     border-right: solid;
-    font-size: 4em;
     font-weight: 900;
-    font-style: bold;
+    font-size: 3.0em;
     padding: 0.2em;
-    font-family: Impact;
-    font-stretch: ultra-condensed;
+    letter-spacing: -.1em;
 }
 
 
 h2 {
-    background-color: #ff6600;
+    background-color: #ff6600; /*Orange */
     color: #ffff99; /*light yellow */
+    
+    /*spacing looks good*/
     padding-top: 1.5em;
     padding-bottom: .5em;
     padding-left: .5em;
+    
+    
+    font-family: Courier-new;    
+    font-size: 2em;
+    word-spacing: .5em;
+    white-space: 1em;
+    letter-spacing: .1em;
 }
 
 ol {

@@ -1,0 +1,51 @@
+body {
+
+    background-color: #D6DBB2;    
+    font-family: Helvetica, Impact, Courier;
+    color: #422040;
+
+    }
+    
+    h1 {
+        font-size: 4em;
+        font-style: bold;
+        font-weight: 800;
+        border: #E3D985;
+        border-style: solid;
+        background-color: #E3D985;
+
+    }
+    
+    h2 {
+    
+        background-image: url("blue-watercolor-background_615876-5.jpg");
+        padding: 4em;
+    }
+    
+    ol, ul {
+            border: #422040;
+            border-color: #422040;
+            border-style:  solid;
+            background-color: #422040;
+            color: #D6DBB2;
+            font-size: medium;
+    }
+    
+    li {
+            font-weight: lighter;
+            border-color: #422040;
+            border-style:  solid;
+    }
+
+    p {
+        font-style: normal;
+        font-weight: 700;
+        
+    }
+    
+    /*this formats links*/
+    
+    a {
+        color: #BCD8C1;
+        background-color: #E57A44;
+    }

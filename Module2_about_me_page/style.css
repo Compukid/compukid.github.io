@@ -1,12 +1,15 @@
 body {
 
     background-color: #D6DBB2;    
-    font-family: Helvetica, Impact, Courier;
+    font-family: sans-serif
     color: #422040;
+    margin-right: 35em;
 
     }
     
     h1 {
+
+        font-weight: bold;
         font-size: 4em;
         font-style: bold;
         font-weight: 800;
@@ -20,6 +23,8 @@ body {
     
         background-image: url("blue-watercolor-background_615876-5.jpg");
         padding: 4em;
+        font-family:  serif;
+        font-style:  italic;
     }
     
     ol, ul {
@@ -29,6 +34,7 @@ body {
             background-color: #422040;
             color: #D6DBB2;
             font-size: medium;
+            padding: 1.0em;
     }
     
     li {

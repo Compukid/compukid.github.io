@@ -1,0 +1,102 @@
+body {
+
+    background-color: #f6f6df;    
+    font-family: sans-serif;
+    margin-right: 35em;
+
+    }
+    
+h1 {
+
+    font-weight: bold;
+    font-size: 4em;
+    font-style: bold;
+    font-weight: 800;
+    color: lightskyblue;
+
+}
+
+h2:hover{
+
+    background-color: hotpink;
+    color: #f6f6df;
+}
+
+header h2 {
+    
+    /* background-image: url("blue-watercolor-background_615876-5.jpg"); */
+    padding: 3em;
+    font-family:  serif;
+    font-style:  italic;
+}
+
+#quote{
+    
+    background-color: lightblue;
+    background-size: 1em;
+
+}
+
+a, a:visited {
+    background-color: #f6f6df; 
+    color: lightskyblue;  
+    
+}
+
+section {
+
+    border-color: gold;
+    border-style: solid;
+    border-width: 0.5em;
+}
+
+section h2 {
+
+    color: hotpink;
+    font-weight: bold;
+    font-size: 3em;
+
+}
+
+div {
+
+    border-color: skyblue;
+    border-style: solid;
+    border-width: 4px;
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-right: 2em;
+}
+
+div p {
+
+    margin: 1em;
+}
+
+.solid {
+
+    display: block;
+    height: 6px;
+    border: 0;
+    border-top: 1px solid skyblue;
+    margin: 1em 0;
+    padding: 0;
+
+  }
+
+.rounded {
+    display: block;
+    height: 8px;
+    border: 0;
+    border-top: 2px solid blue;
+    margin: 1em 0;
+    padding: 0;
+
+  }
+
+  li:active {
+
+        background-color: hotpink;
+        font-weight: bold;
+        font-style: italic;
+  }

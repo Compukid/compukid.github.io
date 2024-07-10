@@ -1,2 +1,3 @@
 table, th, td { border: 1px solid black; border-spacing: 50px; }
 table { border-collapse: collapse; }
+table { border-spacing: 50px;}
